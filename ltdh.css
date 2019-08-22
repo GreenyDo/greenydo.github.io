@@ -139,9 +139,8 @@ body{
     display: inline-block;
     position: relative;
 
-	/* test 
-	border-radius: 1px;
-	box-shadow:3px 6px 43px 2px rgb(147, 156, 156);
+	/* test
+	box-shadow:7px 7px 48px 2px rgb(147, 156, 156);
 	*/
 }
 /* 方案1
@@ -154,7 +153,7 @@ body{
 /* 方案2 */
 .sys_button:hover{
 	border-radius: 3px;
-	box-shadow:7px 7px 48px 2px rgb(147, 156, 156);
+	box-shadow:7px 7px 46px -1px rgb(147, 156, 156);
     transition: all 0.2s ease-in-out;
     -webkit-animation-name:shake;
 	-webkit-animation-duration:1.3s;
