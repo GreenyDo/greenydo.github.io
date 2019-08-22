@@ -299,7 +299,7 @@ body{
 	font-weight: 500;
     font-size: 22px;
     top: 29px;
-    left: 32px;
+    left: 54px;
     color: #000000;
 }
 
@@ -307,51 +307,51 @@ body{
 
 /*------------------------*/
 #discnt_cbss{
-	background-color: #bd986c;
-	border-color: #bd986c;
+	background-color: #ead687;
+	border-color: #ead687;
 }
 #discnt_cbss p{
-	font-weight: 600;
-    font-size: 17px;
+	font-weight: 500;
+    font-size: 19px;
     top: 31px;
-    left: 17px;
-    color: #3a3634;
+    left: 11px;
+    color: #540000;
 }
 /*------------------------*/
 #discnt_bss{
-	background-color: #bd986c;
-	border-color: #bd986c;
+	background-color: #ead687;
+	border-color: #ead687;
 }
 #discnt_bss p{
-	font-weight: 600;
-    font-size: 17px;
+	font-weight: 500;
+    font-size: 19px;
     top: 31px;
-    left: 20px;
-    color: #3a3634;
+    left: 13px;
+    color: #540000;
 }
 /*------------------------*/
 #product_act{
-	background-color: #bd986c;
-	border-color: #bd986c;
+	background-color: #ead687;
+	border-color: #ead687;
 }
 #product_act p{
-	font-weight: 600;
-    font-size: 17px;
+	font-weight: 500;
+    font-size: 19px;
     top: 31px;
-    left: 20px;
-    color: #3a3634;
+    left: 11px;
+    color: #540000;
 }
 /*------------------------*/
 #little_balance{
-	background-color: #bd986c;
-	border-color: #bd986c;
+	background-color: #ead687;
+	border-color: #ead687;
 }
 #little_balance p{
-	font-weight: 600;
+	font-weight: 500;
     font-size: 19px;
     top: 31px;
     left: 59px;
-    color: #3a3634;
+    color: #540000;
 }
 
 
@@ -439,7 +439,7 @@ body{
 	font-weight: 500;
     font-size: 22px;
     top: 29px;
-    left: 36px;
+    left: 45px;
     color: #000000;
 }
 /*------------------------*/
