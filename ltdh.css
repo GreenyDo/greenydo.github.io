@@ -65,7 +65,7 @@ body{
     transition: all 0.33s ease-in-out;
 }
 #cloud_portal p{
-	margin-top: 10px;
+	margin-top: 13px;
     font-size: 1.9em;
     font-weight: 900;
     font-family: "SimHei";
@@ -628,17 +628,10 @@ body{
 	border-color: #4f5569;
 }
 #Placeholder2 p{
-<<<<<<< HEAD
 	font-weight: 500;
     font-size: 19px;
     top: 31px;
     left: 33px;
-=======
-    font-weight: 500;
-    font-size: 19px;
-    top: 31px;
-    left: 15px;
->>>>>>> origin/master
     color: #ced4d4;
 }
 /*------------------------*/
